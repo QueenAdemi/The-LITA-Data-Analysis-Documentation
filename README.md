@@ -8,6 +8,12 @@
 This project demonstrates my proficiency in leveraging various data tools to facilitate comprehensive data analysis, encompassing data ingestion, cleansing, organization, querying, and visualization
  ### Data Sources:
  This project's data foundation comes from the LITA Incubator Hub, complemented by supplementary data from Kaggle
+   ### Tools Used:
+   - **Microsoft Excel**  [Download here](https://www.microsoft.com/en-ng)
+      1. For Data Cleaning
+      2. For Analysis
+      3. For Data Visualisation
+   - **SQL -** Structured Query Language for querying data.  [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - **The Use of Forms for Data Entry in Excel**![excel use of forms](https://github.com/user-attachments/assets/2aefe740-ddf1-4165-acc0-d09e4f343977)
 - ### **For Flashfill: ctrl + E**
  
