@@ -16,6 +16,8 @@ This project demonstrates my proficiency in leveraging various data tools to fac
    - **SQL -** Structured Query Language for querying data.  [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
    - **GitHub -** For Portfolio Building [Download here](https://github.com)
    - **Power BI -** For Data Manipulation and Visualisation [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+   #### Microsoft Excel
 - **The Use of Forms for Data Entry in Excel**![excel use of forms](https://github.com/user-attachments/assets/2aefe740-ddf1-4165-acc0-d09e4f343977)
 - ### **For Flashfill: ctrl + E**
  
