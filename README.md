@@ -1,14 +1,13 @@
 # The-LITA-Data-Analysis-Documentation
- This is a documentation of my journey through the LITA data analysis class, it covers my journey from Microsoft Excel, through SQL and then POWER BI
+ This documentation captures my learning journey in the LITA data analysis class facilitated by The Incubator Hub. It presents my first project utilizing the diverse data tools and methodologies taught in the program.
  
-## Data Analysis Using Microsoft Excel
+## Project Title: Data Analysis and Visualisation 
 
-### Project Title: The Use of Basic Functions in Excel 
 
-- ### Project Overview:
-This class introduced me to data entry using forms and flashfill.
-I was also introduced to the basic Excel functions used in data analysis such as SUM, SUMIF, AVERAGE, AVERAGEIF, MAX, MAXIF, MIN, MINIF, COUNT, COUNTA, COUNTIF, LARGE.
-
+ ### Project Overview:
+This project demonstrates my proficiency in leveraging various data tools to facilitate comprehensive data analysis, encompassing data ingestion, cleansing, organization, querying, and visualization
+ ### Data Sources:
+ This project's data foundation comes from the LITA Incubator Hub, complemented by supplementary data from Kaggle
 - **The Use of Forms for Data Entry in Excel**![excel use of forms](https://github.com/user-attachments/assets/2aefe740-ddf1-4165-acc0-d09e4f343977)
 - ### **For Flashfill: ctrl + E**
  
