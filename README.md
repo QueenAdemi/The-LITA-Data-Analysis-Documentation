@@ -36,7 +36,7 @@ Data Validation and Formatting
 
 Data Analysis using Formulas and Functions
 
-- Utilized advanced formulas and functions, including:
+- Utilized advanced formulas and functions, including SUM, SUMIF, SUMIFS AVERAGE, MIN, MAX, COUNT COUNTA COUNTIFS
     - SUMIFS for conditional summation
     - VLOOKUP for data retrieval
     - TEXT extractions using LEFT, MID, and RIGHT functions
