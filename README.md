@@ -18,9 +18,30 @@ This project demonstrates my proficiency in leveraging various data tools to fac
    - **Power BI -** For Data Manipulation and Visualisation [Download here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
    #### Microsoft Excel
+   Our class performed a range of Excel functions to ensure data accuracy and efficiency:
+
+**Data Input and Management**
+
+- Entered data from various sources (front-end, manual typing, or uploads). For example;
+-  **The Use of Forms for Data Entry in Excel**![excel use of forms](https://github.com/user-attachments/assets/2aefe740-ddf1-4165-acc0-d09e4f343977)
+- ### **And the use of Flashfill: ctrl + E**
+- Cleaned and prepared data for analysis through:
+    1. Data loading and inspection
+    2. Handling missing values
+    3. Data cleansing and formatting
+
+Data Validation and Formatting
+
+- Applied formatting and validation rules to ensure data consistency
+
+Data Analysis using Formulas and Functions
+
+- Utilized advanced formulas and functions, including:
+    - SUMIFS for conditional summation
+    - VLOOKUP for data retrieval
+    - TEXT extractions using LEFT, MID, and RIGHT functions
+
    
-- **The Use of Forms for Data Entry in Excel**![excel use of forms](https://github.com/user-attachments/assets/2aefe740-ddf1-4165-acc0-d09e4f343977)
-- ### **For Flashfill: ctrl + E**
  
 - **The Use of Excel Numerical Functions** ![excel use of basic numerical functions 1](https://github.com/user-attachments/assets/bce45cf5-50b4-4d24-bafa-eb0a91fd1b74)![excel use of basic numerical functions 2](https://github.com/user-attachments/assets/ce88acb7-c5f5-400f-a7fc-dfc7870df27f)
 
