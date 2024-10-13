@@ -40,7 +40,7 @@ Data Validation and Formatting
 
 Data Analysis using Formulas and Functions
 
-- Utilized advanced formulas and functions, including SUM, SUMIF, SUMIFS AVERAGE, AVERAGEIF, AVERAGEIFS, MIN, MINIFS, MAX, MAXIFS, COUNT, COUNTA (to count text), COUNTIF, COUNTIFS
+- Utilized advanced formulas and functions, including SUM, SUMIF, SUMIFS AVERAGE, AVERAGEIF, AVERAGEIFS, MIN, MINIFS, MAX, MAXIFS, COUNT, COUNTA (to count text), COUNTIF, COUNTIFS, LARGE
     - The IF and IFS for conditional calculations
     - VLOOKUP for data retrieval
     - Text extractions using LEFT, MID, and RIGHT functions
